@@ -2,7 +2,7 @@
 
 Estudos criado baseado no estudo de containers e position.
 
-RESPONSIVIDADE INEXISTENTE
+Responsividade inexistente.
 
 <img src="https://github.com/DevNylo/DevNylo/blob/main/Preview-Pages/container.png"> </img>
 
